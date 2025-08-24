@@ -6,3 +6,7 @@
 
 # Node modules
 node_modules/
+
+# OS Files
+.DS_Store
+.DS_Store
